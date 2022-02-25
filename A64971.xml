@@ -1,0 +1,414 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The saints triumph over the last enemy in a sermon preached at the funeral of that zealous and painful Minister of Christ Mr. James Janeway : unto which is added his character, his sore conflict before he dyed, and afterwards his triumphant manner of departing from earth to the heavenly inheritance / by Nathanael Vincent.</title>
+            <author>Vincent, Nathanael, 1639?-1697.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64971</idno>
+            <idno type="STC">Wing V420</idno>
+            <idno type="STC">ESTC R26349</idno>
+            <idno type="EEBO-CITATION">09436321</idno>
+            <idno type="OCLC">ocm 09436321</idno>
+            <idno type="VID">43096</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43096)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1318:45)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The saints triumph over the last enemy in a sermon preached at the funeral of that zealous and painful Minister of Christ Mr. James Janeway : unto which is added his character, his sore conflict before he dyed, and afterwards his triumphant manner of departing from earth to the heavenly inheritance / by Nathanael Vincent.</title>
+                  <author>Vincent, Nathanael, 1639?-1697.</author>
+               </titleStmt>
+               <extent>[6], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Parkhurst,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Janeway, James, 1636?-1674.</term>
+               <term>Bible. --  N.T. --  Corinthians, 1st, XV, 55 --  Sermons.</term>
+               <term>Funeral sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43096:1"/>
+            <pb facs="tcp:43096:1" rendition="simple:additions"/>
+            <p> 
+               <hi>The Saints Triumph</hi> OVER THE Laſt Enemy. IN A SERMON Preached at the Funeral of that Zealous and Painful Miniſter of CHRIST, Mr. <hi>JAMES JANEWAY.</hi> Unto which is added, His CHARACTER. His ſore Conflict before he dyed: And afterwards, His Triumphant manner of departing from Earth, to the Heavenly Inheritance. By <hi>Nathanael Vincent,</hi> Miniſter of the Goſpel.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Parkhurſt,</hi> at the Bible and three Crowns in <hi>Cheapſide,</hi> near <hi>Mercers Chappel,</hi> and at the Bible on <hi>London-Bridg,</hi> under the Gate. 1674.</p>
+            <pb facs="tcp:43096:2" rendition="simple:additions"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:43096:2"/>
+            <head>
+               <hi>To the much reſpected Mrs.</hi> Hannah Janeway, <hi>the ſorrowful Relict of Mr.</hi> James Jane<g ref="char:EOLhyphen"/>way.</head>
+            <opener>
+               <salute>Dear Siſter,</salute>
+            </opener>
+            <p>THough it be a great affliction to loſe ſo excellent an Hus<g ref="char:EOLhyphen"/>band as you enjoyed, and at whoſe Funeral this enſu<g ref="char:EOLhyphen"/>ing Sermon was preached; yet that he was ſo excellent may alſo be an argument of Conſolation. The thoughts of his be<g ref="char:EOLhyphen"/>ing at reſt in Heaven, and rewarded with that <hi>Crown</hi> which the Great Shepherd has promiſed to thoſe Paſtors who are faithful, may help to quiet and ſatisfie your ſpirit; eſpecially conſidering, as Death was unconceivably gainful to him, ſo the Husband that lives for ever, can eaſily make up the loſs of that <hi>mortal one</hi> who is taken from you.</p>
+            <p>Think of the <hi>Joys</hi> his Soul is fill'd with in Glory, when you find your <hi>ſorrow ſwelling,</hi> and your grief tranſgreſſing due bounds. And withal remember, that <hi>He who has betrothed you unto himſelf for ever,</hi> is always near you, and has engaged himſelf, never to fail you, nor forſake you. How unchange<g ref="char:EOLhyphen"/>able is his love! How great is his faithfulneſs! How tender are his bowels! How certainly does he ſympathize with you in your ſorrows! And how ready is he, to give that grace which is ſutable and ſufficient!</p>
+            <p>You performed your duty abundantly to your dear Hus<g ref="char:EOLhyphen"/>band while he lived; and I muſt needs ſay, that by your love to him, and care of him, you have made the Church of Chriſt and Souls your Debtors. Pray do not fail <hi>in doing</hi>
+               <pb facs="tcp:43096:3"/> 
+               <hi>your duty now;</hi> which is, <hi>patiently to ſubmit unto the will of God.</hi> The Goſpel will be credited, and you will be no loſer by ſuch a ſubmiſſion.</p>
+            <p>The Lord increaſe grace in you exceedingly; and ſo ſhed abroad his love in your heart by his Spirit, as that the days of your Widowhood, may be the moſt comfortable you have ever lived. So prays,</p>
+            <closer>
+               <signed>Your truly loving Brother <hi>Nathanael Vincent.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:43096:3"/>
+            <head>
+               <hi>To the Congregation over whom my Bro<g ref="char:EOLhyphen"/>ther</hi> Janeway <hi>was Overſeer.</hi>
+            </head>
+            <opener>
+               <salute>My dearly Beloved,</salute>
+            </opener>
+            <p>'TIs a very heavy ſtroke that has made you a Flock without a Shepherd. Oh what a Friend did you loſe when your Paſtor was ſnatched from you. You were as dear to him as his own Soul. How did he pray, and weep, and preach, and labour, and all to this end, that you might be ſincere converts, and work out your own ſal<g ref="char:EOLhyphen"/>vation. Very few could match my <hi>Brother Janeway</hi> in zeal, in compaſſion, in holy activity, in affection, in ſince<g ref="char:EOLhyphen"/>rity. <hi>He ſought not yours, but you; and deſired ten thouſand times more to gain Souls than ought beſides.</hi> He endeavoured to debaſe the world in your eſteem, and 'twas low in his own. He ſtrived to raiſe your affections heaven<g ref="char:EOLhyphen"/>ward, and there was his heart and treaſure. Chriſt he lo<g ref="char:EOLhyphen"/>ved, in Chriſt he believed; Chriſt he preached, Chriſt he commended. And how did he rejoice, when any that before rejected the Lord Jeſus, were perſwaded to give their con<g ref="char:EOLhyphen"/>ſents to him!</p>
+            <p>How may his <hi>unregenerate</hi> Hearers be ſtartled at the re<g ref="char:EOLhyphen"/>moval of ſuch a Miniſter! They deafned their ears, and hardned their hearts, notwithſtanding all his intreaties and importu<g ref="char:EOLhyphen"/>nity; they have reſisted the Spirit ſpeaking in him; and may fear the Spirit is about to give over ſtriving. O you
+<pb facs="tcp:43096:4"/> ſecure Souls! that live without God, without Chriſt, that are ſtrangers to duty, and haters of holineſs. <hi>A Prophet has been among you, and you ſhall know it.</hi> You that are back ſliders from God; and your ſeeming forwardneſs in Reli<g ref="char:EOLhyphen"/>gion is vaniſhed away; O bethink your ſelves! Let the death of Him that has ſpoken ſo much in the Name of the Lord, <hi>be a louder warning than ever any he gave you in the Pulpit.</hi> Call to mind the words he has preached, and beg that being back'd by this ſad providence, they may be made effectual to your awakening, and turning of you unto God.</p>
+            <p>
+               <hi>You that are ſincere,</hi> Weep over him, that ſo ſincerely loved both Chriſt and you. Lament your loſs of him, but eſpecially your own unprofitableneſs under ſuch a Miniſtry; and let it be your earneſt deſire to be made more fruit<g ref="char:EOLhyphen"/>ful.</p>
+            <p>I muſt here inform you of <hi>three</hi> words of advice which were given by your Paſtor before he died; and the <hi>words of dying perſons ſhould be remember'd.</hi>
+            </p>
+            <p>Firſt, <hi>That you would walk according to the Goſpel, or<g ref="char:EOLhyphen"/>dering your converſation ſo as that the Doctrine of God our Saviour may be adorned.</hi> The eyes of God, and An<g ref="char:EOLhyphen"/>gels, and Men are upon you, you had need to walk with cir<g ref="char:EOLhyphen"/>cumſpection; paſs the time of your ſojourning here in fear; deny ungodlineſs and worldly luſts; live ſoberly, righteouſly, and godly in this preſent world, as thoſe that indeed look for a bleſſed hope, and the glorious appearance of the Lord Jeſus.</p>
+            <p>Secondly, <hi>That you would continue united together.</hi> Scat<g ref="char:EOLhyphen"/>ter not preſently, now your ſhepherd is gone, but wait ſtill at thoſe gates of wiſdom where you were wont to attend.</p>
+            <p>Thirdly, <hi>That you would be very well adviſed in chuſing a Succeſſor.</hi> Let the perſon he one that is an holy, able, and lively Minister; and who is not ſubtle to draw people to a particular party, but ſerious in endeavouring to draw them to Chriſt, and to perſwade them unto holineſs.</p>
+            <pb facs="tcp:43096:4"/>
+            <p> Dear Brethren, I am very much concerned for you; and as my grief is great, becauſe he who had the rule over you must now watch for your Souls no longer; ſo my hearty deſire is, that God would once again truſt you with an able Minister of the new Teſtament, and that he may come to you in the fulneſs of the bleſſing of the Goſpel of peace.</p>
+            <closer>
+               <signed>
+                  <hi>Your affectionate Friend and Servant for Jeſus ſake.</hi> Nathanael Vincent.</signed>
+            </closer>
+         </div>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:43096:5"/>
+            <head>Books lately Printed for <hi>Tho. Parkhurſt,</hi> at the Bible and three Crowns in <hi>Cheapſide</hi> near <hi>Mercers Chappel.</hi>
+            </head>
+            <p>THE Life and Death of Mr. <hi>John Janeway.</hi>
+            </p>
+            <p>Saints Encouragement to Diligence in Gods Service. Both writ by Mr. <hi>James Janeway.</hi>
+            </p>
+            <p>The Life and Death of Dr. <hi>Edmund Staunton;</hi> to which is added a Dialogue between a Miniſter and Stranger; with a Diſcourſe of Chriſtian Conference. Publiſhed by <hi>Richard Mayo.</hi>
+            </p>
+            <p>Eighteen Sermons of Mr. <hi>William Whittaker</hi> late of <hi>Ber<g ref="char:EOLhyphen"/>mondſey Southwark;</hi> With his Funeral-Sermon by <hi>Samuel Anneſly,</hi> L. L. D.</p>
+            <p>Caſes of Conſcience, by <hi>John Norman</hi> late Miniſter of <hi>Bridgwater.</hi>
+            </p>
+            <p>Four Sermons of Mr. <hi>William Hickock.</hi>
+            </p>
+            <p>A Diſcourſe concerning the Lords Supper, by <hi>Rich. Kidder.</hi>
+            </p>
+            <p>The young man's Inſtructer, and old man's Remembrancer, By <hi>Tho. Doolittel.</hi>
+            </p>
+            <p>There is printing Forty ſix Sermons on the whole Eighth Chapter of the <hi>Romans.</hi>
+            </p>
+            <p>Eight Sermons on the whole fourth Pſalm.</p>
+            <p>Nineteen Sermons on the whole 51 Pſalm. Preached by <hi>Tho. Horton,</hi> D. D. late Miniſter of St. <hi>Helens:</hi> Perfected for the Preſs by his own hand; left with his Relict to be Printed.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:43096:5"/>
+            <head>A SERMON Preached at the Funeral of Mr. <hi>James Janeway, March</hi> 20, 1673/4.</head>
+            <epigraph>
+               <q>
+                  <bibl>1 COR. 15. 55, former part.</bibl> 
+                  <hi>O death, where is thy ſting?</hi>
+               </q>
+            </epigraph>
+            <p>I Am verily perſwaded, that in this great Aſſembly there are not many but what are real Mourners. Although the pompous Ceremonies of a Funeral are wanting; yet I am confident few have been attended with more ſad hearts to their graves, than he that is now to be carried thither. The loſs of a Saint is a great loſs, not only becauſe ſuch are ſo uſe<g ref="char:EOLhyphen"/>ful and profitable while they live, but their re<g ref="char:EOLhyphen"/>moval alſo is no good <hi>Omen;</hi> their departing is like <hi>Lot</hi>'s out of <hi>Sodom,</hi> before its overthrow. Their houſing in Heaven is like <hi>Noah</hi>'s get<g ref="char:EOLhyphen"/>ting into the Ark before the Old World was
+<pb n="2" facs="tcp:43096:6"/> drowned. The Prophet tells us, <hi>That the righte<g ref="char:EOLhyphen"/>ous are taken away from the evil to come,</hi> Iſa. 57. 1.</p>
+            <p>But the loſs of a Miniſter that has been zealous and induſtrious, and whoſe great de<g ref="char:EOLhyphen"/>ſign was to turn many unto righteouſneſs, is yet more to be laid to heart. Is not Gods con<g ref="char:EOLhyphen"/>troverſie great, when the Ambaſſadors of peace are called home? May we not juſtly be afraid of loſing the Treaſure, when the Veſſels that contain it are broken ſo faſt in pieces? When faithful Labourers are ſtill growing fewer, may we not ſuſpect there are not many more among us to be gathered? Surely then great lamen<g ref="char:EOLhyphen"/>tations, aking hearts, ſad countenances, and ſadder ſpirits, very well become this days So<g ref="char:EOLhyphen"/>lemnity.</p>
+            <p>What <hi>David</hi> of old ſaid over his dead and dear <hi>Jonathan,</hi> 2 <hi>Sam.</hi> 1. 26, I cannot abſtain from uſing, <hi>I am diſtreſſed for thee my brother</hi> Janeway, <hi>I am diſtreſſed for thee! very plea<g ref="char:EOLhyphen"/>ſant hast thou been unto me,</hi> and ſo thou waſt to all that knew thee. <hi>Thy love to Souls was wonderful,</hi> and therefore every Soul ſhould
+<pb n="3" facs="tcp:43096:6"/> be concerned at thy leaving the world, &amp; that thy work is come to an end. He is gone, alas! he is gone! he is gone! We ſhall never ſee his face, nor hear his voice more. But as his life was exceeding, ſo alſo was his death edifying. He had a ſore conflict indeed, but afterwards a glorious conqueſt; and was a Triumphant Saint before his expiration. <hi>O death, where is thy ſting? O grave, where is thy victory?</hi>
+            </p>
+            <p>In this Chapter the Apoſtle <hi>Paul</hi> looked by the eye of Faith to the end of the world; nay he looked beyond it; his Faith was <hi>the ſub<g ref="char:EOLhyphen"/>ſtance of things hoped for,</hi> and render'd <hi>things unſeen evident.</hi> He ſaw already the Lord Jeſus upon his great white Throne, ſitting to judg the world in righteouſneſs: He ſaw <hi>the bodies that were ſown in corruption, raiſed in incorruption; that were ſown in diſhonour, raiſed in glory; that were ſown in weakneſs, raiſed in power:</hi> He ſaw Believers reſcued out of the priſon of the grave, and placed at the right hand of Chriſt, <hi>with Crowns on their heads, &amp; palms in their hands, mor<g ref="char:EOLhyphen"/>tality</hi>
+               <pb n="4" facs="tcp:43096:7"/> 
+               <hi>being totally ſwallowed up of life;</hi> And this makes him thus triumph, and ſay, <hi>O death, where is thy ſting?</hi>
+            </p>
+            <p>I ſhall not trouble you with the various readings of this Text which I have met with, nor ſpend time in ſhewing the agreement be<g ref="char:EOLhyphen"/>tween theſe words and thoſe of the Prophet <hi>Hoſea, c.</hi> 13. 14, <hi>O death, I will be thy plague;</hi> from whom many are of opinion they are borrow<g ref="char:EOLhyphen"/>ed; though <hi>Calvin</hi> thinks that the Apoſtle does not profeſſedly cite the Prophet, but on<g ref="char:EOLhyphen"/>ly does accommodate a Sentence that is very pious, and was very well known, to his pre<g ref="char:EOLhyphen"/>ſent purpoſe. I ſhall adhere to that reading which you have; and being thus read, the words are not only ſound, but very full of conſolation.</p>
+            <p>
+               <hi>Chryſostome</hi> here admires <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, the bra<g ref="char:EOLhyphen"/>very <note place="margin">
+                  <gap reason="foreign" resp="#OXF">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>. B. <hi>in</hi> 1 <hi>Ep. ad Cor.</hi>
+               </note> of the Apoſtles ſpirit, who looked upon future things as paſt and done, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, and ſings a ſong of Victory over that laſt Enemy, the thoughts of which terrifie
+<pb n="5" facs="tcp:43096:7"/> and aſtoniſh the moſt among the children of men.</p>
+            <p>In the words you may obſerve,</p>
+            <p n="1">1. The <hi>Perſon triumphing,</hi> the <hi>Apostle Paul,</hi> whoſe Faith was ſtrong concerning the Reſur<g ref="char:EOLhyphen"/>rection; and his aſſurance well-grounded of his intereſt in Chriſt, who is the reſurrection and the life. And the Apoſtle triumphs that other Believers might grow fearleſs, being em<g ref="char:EOLhyphen"/>boldened by his greatneſs of ſpirit.</p>
+            <p n="2">2. <hi>What is triumphed over,</hi> and that is <hi>death.</hi> Death, which is the <hi>King of terrors,</hi> which tames the proudeſt, which pulls down the moſt mighty, which is an Univerſal Monarch; and none are able to withſtand, but all are forced to pay homage to it, by ſtooping and lying before it in the duſt. This notwith<g ref="char:EOLhyphen"/>ſtanding is triumphed over.</p>
+            <p n="3">3. The <hi>reaſon of this triumph,</hi> the <hi>sting of death is taken out,</hi> and conſequently, <hi>that which renders death ſo dreadful is removed.</hi>
+            </p>
+            <p>The Text doth afford us two Doctrines.</p>
+            <list>
+               <pb n="6" facs="tcp:43096:8"/>
+               <item>1. <hi>Death comes to a Believer without a sting.</hi>
+               </item>
+               <item>2. <hi>The Believer may triumph over Death.</hi>
+               </item>
+            </list>
+            <p>Doct. 1. I begin with the firſt of theſe Do<g ref="char:EOLhyphen"/>ctrines, <hi>Death comes to a Believer without a sting. It is appointed unto men once to dye, Heb.</hi> 9. 27. And this Statute, as it changes not, ſo it reaches all; Holy men return to the duſt as well as others. But though they are not ex<g ref="char:EOLhyphen"/>empted from the <hi>stroke,</hi> yet they are from the <hi>sting</hi> of death.</p>
+            <p>In the proſecuting of this Doctrine, I ſhall Firſt, Speak concerning Death. Secondly, Concerning the Sting of Death. Thirdly, Shew how Believers come to be delivered from this Sting. Laſtly, Make Application.</p>
+            <p>In the firſt place I am to ſpeak concerning <hi>Death:</hi> And,</p>
+            <p n="1">1. I find <hi>Affliction</hi> in Scripture ſometimes called by that name. <hi>Exod.</hi> 10. 27, when <hi>Egypt</hi> was afflicted with the <hi>Locuſts, Pharaoh</hi> cries out, <hi>Intreat the Lord your God, that he may take away from me this death only.</hi> Afflictions have ſtings too, which Chriſt only can take out. As Sin
+<pb n="7" facs="tcp:43096:8"/> turns our bleſſings into curſings, ſo it makes every bitter cup poiſon. But Believers are pardoned and ſanctified; and therefore though they are exerciſed with the Croſs, yet the Curſe of the Croſs is taken away.</p>
+            <p n="2">2. <hi>Hell</hi> is likewiſe called <hi>Death.</hi> Rev. 21. 18, <hi>The lake which burns with fire and brimſtone is the ſecond death.</hi> This death is the ſeparation of the Soul from God the chiefeſt good, and the enduring of thoſe torments which the Lords power and wrath juſtly inflicts upon all that live and dye in their iniquities. <hi>Au<g ref="char:EOLhyphen"/>guſtine</hi> has a notable paſſage, <hi>That death which men fear is the deſtruction of the body; but the ſeparation of the ſoul from God,</hi>
+               <note place="margin">
+                  <hi>Enarrat. in Pſ.</hi> 48.</note> Mors eſt vera, quam non timent, <hi>is the true death, which they are not afraid of.</hi> This ſecond death, which is as it were, all gall, all ſting, Believers ſhall never feel.</p>
+            <p n="3">3. <hi>Death</hi> is taken for the <hi>diſſolving of that union which is between our bodies and our ſpirits,</hi> when <hi>the duſt returns to the earth as it was, and the ſpirit unto God who gave it, Eccl.</hi> 12. 7.
+<pb n="8" facs="tcp:43096:9"/> Of this death the Apoſtle is to be underſtood in the Text.</p>
+            <p>Now in the death of Believers three things are remarkable,</p>
+            <p n="1">1. <hi>Their Souls immediately are with Christ.</hi> The Apoſtle for encouragement-ſake ſeems to put this into death's definition, <hi>Phil.</hi> 1. 23, <hi>For I am in a ſtrait betwixt two, having a deſire to be diſſolved, or to depart and to be with Christ, which is far better.</hi> The Saints as ſoon as ab<g ref="char:EOLhyphen"/>ſent from the body, are preſent with the Lord, 2 <hi>Cor.</hi> 5. 8, 9, <hi>We are confident,</hi> ſays the Apoſtle, <hi>and willing rather to be abſent from the body, and to be preſent with the Lord; wherefore we labour that whether preſent or abſent, we may be accept<g ref="char:EOLhyphen"/>ed of him.</hi>
+            </p>
+            <p>That opinion of the Souls ſleeping and dy<g ref="char:EOLhyphen"/>ing with the Body, and reſting ſenſleſs till the reſurrection, is abſurd and impious. Chriſt ſays, <hi>Fear not them which can kill the body, but are not able to kill the ſoul, Mat.</hi> 10. 28. If the Sould did dye with the Body, man would have power over both, and might caſt the Soul as
+<pb n="9" facs="tcp:43096:9"/> well as the Body into a dead ſleep. But our Lord affirms, <hi>man is not able to kill the Soul,</hi> which is an undeniable argument to prove its <hi>immortality,</hi> and ſurviving after its ſeparation; it goes immediately to Chriſt, if it hath been ſanctified. <hi>Stephen</hi> commended his ſpirit into Chriſts hands, <hi>Act.</hi> 7. 59.</p>
+            <p n="2">2. <hi>Believers bodies, after death has divided their Souls from them, are ſtill united unto Chriſt.</hi> Our very Bodies are called the <hi>Temples of the Holy Ghost,</hi> and the <hi>Members of Christ,</hi> 1 <hi>Cor.</hi> 6. 15, 19. And the myſtical Union between Chriſt and his Members is laſting, nay ever<g ref="char:EOLhyphen"/>laſting. The dead Saints <hi>do ſleep in Jeſus,</hi> they are <hi>in Jeſus</hi> while aſleep, 1 <hi>Theſ.</hi> 4. 14. 'Tis comfortable ſeriouſly to meditate upon that relation, and conſequently that reſpect and care that Chriſt has to, and of the carcaſſes of his deceaſed Servants; even theſe are ſtill his Members, and by vertue of that Union ſhall riſe again at the laſt day.</p>
+            <p n="3">3. <hi>The death of Believers is compared to a ſleep, for after a while they ſhall be awaked.</hi> I
+<pb n="10" facs="tcp:43096:10"/> grant, the ungodly ſhall wake too, but in or<g ref="char:EOLhyphen"/>der to puniſhment; 'twere better for them to ſleep eternally. Believers Bodies and Souls that are parted by death, ſhall one day be re<g ref="char:EOLhyphen"/>united: 'Twill ſurely be a joyful meeting of thoſe two dear Companions, that have been ſo long ſeparated; eſpecially they being both changed ſo much from what they were, when before together; for the Soul will in <hi>the moſt perfect manner partake of the Divine Nature;</hi> and the Body, that is now a vile one, <hi>will be like to Chriſts glorious body, Phil.</hi> 3. <hi>ult.</hi> Not another Body, but the ſame for ſubſtance ſhall riſe again; elſe 'twould not be a Reſurrection, but a new Creation: <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>This mortal ſhall put on immortality, and this corruptible ſhall put on incorruption,</hi> 1 <hi>Cor.</hi> 15. 53.</p>
+            <p>In the ſecond place, I am to ſpeak of the <hi>ſting of death.</hi> Now if you ask what that is, the Apo<g ref="char:EOLhyphen"/>ſtle explains his own meaning in the verſe fol<g ref="char:EOLhyphen"/>lowing the Text, <hi>The ſting of death is ſin.</hi> As ſin has cauſed death it ſelf, ſo all the terror and
+<pb n="11" facs="tcp:43096:10"/> bitterneſs of it is the effect of ſin. Sin is certainly committed upon a very great miſtake; only thoſe keep their ſins, who know not what they are. The Apoſtle cautions againſt <hi>being hardened through the deceitfulneſs of ſin, Heb.</hi> 3. 13. None are obſtinate in ſin, but thoſe that are deceived by it. Sin is fancied to be full of pleaſure, and 'tis repreſented as if 'twere all honey; but 'tis a ſting, the very <hi>ſting of death.</hi>
+            </p>
+            <p>It may be compared to a <hi>ſting</hi> in theſe three reſpects:</p>
+            <p n="1">1. <hi>Sin like a ſting pierces;</hi> It pierced Chriſt, it pierces us. That which no weapon can reach ſin can wound, and that's the Soul. <hi>Diogenes Laertius</hi> tells us, that when <hi>Anaxarchus</hi> was <note place="margin">In vitâ <hi>Anaxar <gap reason="illegible" resp="#MURP" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>.</hi>
+               </note> driven to <hi>Cyprus,</hi> and taken by <hi>Nicocreon</hi> the Tyrant there, and horribly beaten as in a Mortar with a Peſtle, he cried out, <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>Beat on, beat on the windbag of Anaxarchus, for Anaxarchus himſelf thou canſt not hurt.</hi> But though weapons cannot touch the Soul, ſin ſtrikes deepeſt there. Againſt this the Apoſtle ſays, <hi>our fleſhly luſts do war,</hi>
+               <pb n="12" facs="tcp:43096:11"/> and therefore <hi>beſeeches us to abſtain from them,</hi> 1 <hi>Pet.</hi> 2. 11.</p>
+            <p n="2">2. <hi>Sin like a ſting pains. Cain</hi> was thus pain<g ref="char:EOLhyphen"/>ed when he cried out, <hi>My puniſhment is greater than I can bear. Paſhur</hi> was thus pained, when he deſerved the name of <hi>Magor Miſſabib,</hi> Ter<g ref="char:EOLhyphen"/>ror round about. <hi>Judas</hi> alſo was thus pained, when in the height of deſpair and horror, he put a period to his burthenſom life with his own hands. Oh the horror and raging tor<g ref="char:EOLhyphen"/>ment that ſin cauſes in the conſcience! <hi>A wounded ſpirit who can bear?</hi> ſays <hi>Solomon, Prov.</hi> 18. 14; intimating, there is no pain like the ſmart of thoſe wounds.</p>
+            <p n="3">3. <hi>Sin like a ſting poiſons.</hi> 'Tis compared to venom, and that of creatures moſt veno<g ref="char:EOLhyphen"/>mous, <hi>Deut.</hi> 32. 33, <hi>Their wine is the poiſon of Dragons, and the cruel venom of Aſps.</hi> This was all the fruit, which thoſe which the Lord had once planted a noble Vine yielded. How harmleſs ſoever ſin is thought, 'tis rank poiſon. <hi>Job</hi> 20. 12, 14, <hi>Though wickedneſs be ſweet in his mouth, though hide de it under his tongue, though</hi>
+               <pb n="13" facs="tcp:43096:11"/> 
+               <hi>he ſpare it, and forſake it not; yet at length it proves the gall of Aſps within him.</hi>
+            </p>
+            <p>You ſee in what reſpect ſin is called a <hi>sting.</hi>
+            </p>
+            <p>But here it may be demanded, <hi>Is all ſin the sting of death?</hi> Miſerable then muſt the end of all needs be, <hi>for all have ſinned, and come ſhort of the glory of God,</hi> Rom. 3. 23. <hi>In many things all ſtill offend,</hi> Jam. 3. 2. <hi>There is not a juſt man up<g ref="char:EOLhyphen"/>on earth, that does good and ſins not,</hi> Eccl. 7. 20.</p>
+            <p>I anſwer in theſe particulars,</p>
+            <p n="1">1. <hi>All by ſin have deſerved death, accompanied with its greatest horror.</hi> We read <hi>Rev.</hi> 6. 8, <hi>of a pale horſe, and the name of him that ſat on him was death;</hi> 'Tis repreſented as on horſeback, to ſhew the ſpeed and haſte it makes; but be<g ref="char:EOLhyphen"/>hold a terrible ſecond, it follows, <hi>Hell follow<g ref="char:EOLhyphen"/>ed with him;</hi> and truly 'twere juſt, that Death and Hell ſhould be inſeparable. The Grave in the Old Teſtament is frequently called Hell, to ſignifie that ſin has indeed joined the Grave and Hell together, and how righteous 'tis that one ſhould always follow upon the other.</p>
+            <p n="2">2. In ſin we are to take notice of two things,
+<pb n="14" facs="tcp:43096:12"/> the <hi>strength of it,</hi> and the <hi>dominion of it;</hi> and thoſe that are under both theſe, death comes with a ſting to them; But whoever are re<g ref="char:EOLhyphen"/>deemed and made free from ſins ſtrength and dominion, are under grace, and death is un<g ref="char:EOLhyphen"/>ſtung before it comes to them.</p>
+            <p n="1">1. We are to take notice of the <hi>strength of ſin.</hi> Now the Apoſtle informs us, that <hi>the strength of ſin is the Law,</hi> 1 <hi>Cor.</hi> 15. 56. There<g ref="char:EOLhyphen"/>fore ſin is ſo powerful to bind over to con<g ref="char:EOLhyphen"/>demnation, becauſe the tranſgreſſion of a Law; and therefore to ſuch dreadful and eternal ven<g ref="char:EOLhyphen"/>geance, becauſe the Law tranſgreſſed is the Law of ſo great a God. But <hi>Believers are not under the Law, Chriſt has redeemed them from the curſe of it.</hi> Their guilt is all removed as far as the Eaſt is from the Weſt, and that's far enough. <hi>Pſal.</hi> 103. 12, <hi>As far as the eaſt is from the weſt, ſo far hath he removed our tranſgreſſions from us.</hi>
+            </p>
+            <p n="2">2. We are to take notice of <hi>the dominion of ſin.</hi> Where ſin is loved and preferred before God, where 'tis ſerved with both hands ear<g ref="char:EOLhyphen"/>neſtly,
+<pb n="15" facs="tcp:43096:12"/> where proviſion is made for the fleſh, <hi>to fulfil the luſts thereof;</hi> we may conclude that ſin reigns and has dominion, and <hi>ſins reigns unto death,</hi> that is, joins firſt and ſecond death together; for death is oppoſed unto eternal life, which grace is ſaid to reign unto, <hi>Rom.</hi> 5. <hi>ult. As ſin hath reigned unto death even ſo might grace reign through righteouſneſs unto eternal life, by Jeſus Chriſt our Lord.</hi> The ſum is, that all ſin, though it does deſerve to be, yet is not the ſting of death; but ſin unpardoned, ſin reigning, (and truly 'tis unpardoned if 'tis reigning) is the ſting of death.</p>
+            <p>In the third place, I am to tell you how Be<g ref="char:EOLhyphen"/>lievers come to be delivered from this ſting of death.</p>
+            <p n="1">1. <hi>The Son of God was made fleſh, he became a mortal man, that he might be capable of ſuffering for Believers.</hi> As God, he could not ſuffer; and if he had been meerly man, his ſufferings would have been inſufficient. The Blood of Chriſt is the Blood of God, elſe it could ne<g ref="char:EOLhyphen"/>ver
+<pb n="16" facs="tcp:43096:13"/> have waſhed away ſins. The Righteouſneſs of Chriſt is the Righteouſneſs of him that is <hi>Jehovah, Jer.</hi> 23. 6, elſe the imputation thereof would not avail for our remiſſion. Who can venture his Soul in Chriſts hand, and with ſa<g ref="char:EOLhyphen"/>tisfaction rely upon him, that eyes not his Godhead? And how may we be encouraged to believe on him, ſince he has taken our na<g ref="char:EOLhyphen"/>ture, and is become our Brother! <hi>Heb.</hi> 2. 11, <hi>He is not aſhamed to call them brethren.</hi>
+            </p>
+            <p n="2">2. <hi>Chriſt was made ſin, that he might deliver Believers from the ſting of death.</hi> He had none of his own, but our ſins were imputed to him. <hi>Iſa.</hi> 53. 6, <hi>All we like ſheep have gone aſtray, we have turned every one to his own way, and the Lord hath made the iniquity of us all to meet on him.</hi> And as there was an imputation of our ſins to Chriſt, ſo there is of his Righteouſneſs to us, 2 <hi>Cor.</hi> 5. <hi>ult.</hi> as Chriſt ſuffered for the ſake of our ſins, which were laid upon him; ſo for the ſake of his righteouſneſs, his obedi<g ref="char:EOLhyphen"/>ence and ſufferings, our ſins are remitted. This is the <hi>great truth</hi> preached up in the Goſpel.
+<pb n="17" facs="tcp:43096:13"/> How can death be diſarmed of its ſting, or the conſcience have any true peace, till the truth be believed and improved? Though <hi>Papists</hi> and never ſo many others oppoſe this truth, yet through grace we will hold it faſt; <hi>Though An<g ref="char:EOLhyphen"/>gels from heaven ſhould preach another doctrine, we would conclude a ſecond Apoſtacy of Angels, and ſay they were accurſed.</hi>
+            </p>
+            <p n="3">3. <hi>Chriſt became obedient unto death, that he might unsting death.</hi> We ſhall preſently be con<g ref="char:EOLhyphen"/>vinced that death was very terrible which Chriſt did undergo, if we conſider with how many ſtings it came armed upon him. All the ſins of all thoſe that ever were or ſhall be ſaved, did as it were ſpit their poiſon at Chriſt toge<g ref="char:EOLhyphen"/>ther. If the firſt ſin of the firſt <hi>Adam</hi> be ſo heavy that all the ſhoulders of his whole progeny bow under it, and cannot bear it; Oh what a load was all that guilt which lay upon the ſecond <hi>Adam!</hi> Well, death thruſt its ſting into Chriſt the Head, and there left it, there loſt it; it has not now a ſting to hurt his Members.</p>
+            <p>What was Chriſts aim when he died? He
+<pb n="18" facs="tcp:43096:14"/> aimed at the <hi>ſatisfaction of divine Justice;</hi> he de<g ref="char:EOLhyphen"/>ſigned to <hi>juſtifie many,</hi> and to <hi>pacifie their con<g ref="char:EOLhyphen"/>ſciences,</hi> they receiving the atonement, <hi>Rom.</hi> 5. 9, 11. He died <hi>that he might deſtroy him that had the power of death,</hi> that is, the Devil, <hi>Heb.</hi> 2. 14. The Devil has great power to render death formidable, by his accuſations, by his fiery darts, which he is liberal of upon the leaſt per<g ref="char:EOLhyphen"/>miſſion. But Chriſt died to deſtroy him in this reſpect, to quench his darts, and ſtop his mouth. Further he deſign'd <hi>the purging away of iniquity,</hi> the cleanſing of his Church. The dominion of ſin is at preſent pull'd down, and at laſt the ve<g ref="char:EOLhyphen"/>ry being of it ſhall be aboliſhed. By all this you may perceive how death is unſtung by the death of Chriſt.</p>
+            <p n="4">4. <hi>Christ looſed the pains of death, for it was not poſſible he ſhould be holden of it, Act.</hi> 2. 24. By his power he overcame death, as by his ſufferings he had made ſufficient ſatisfaction. Death could not have been unſtung, if Chriſt had not riſen. Sin and Satan and Death might have triumph<g ref="char:EOLhyphen"/>ed, if our Lord had been detained ſtill a pri<g ref="char:EOLhyphen"/>ſoner
+<pb n="19" facs="tcp:43096:14"/> in the grave; <hi>our faith would have been vain, we ſhould have been yet in our ſins; thoſe that have fallen aſleep in Chriſt would all have periſhed,</hi> 1 <hi>Cor.</hi> 15. 17, 18. But Chriſt having taken his life again which he laid down, death hath no more dominion over him; it is a conquered ene<g ref="char:EOLhyphen"/>my.</p>
+            <p n="5">5. <hi>Believers being by faith united to Chriſt, partake of the benefits which he has procured;</hi> now remiſſion of ſin, and freedom from the bondage of corruption, which is freedom in<g ref="char:EOLhyphen"/>deed, are to be reckoned among theſe benefits. All that are in Chriſt ſhare in his victories; in their head who is a common perſon and repre<g ref="char:EOLhyphen"/>ſentative of them all; they have already been Conquerors; and at length all their foes will be made their footſtools; <hi>the laſt enemy that ſhall be deſtroyed is death,</hi> but that ſhall certainly likewiſe be deſtroyed. The Apoſtle ſpeaks thus to the Saints, <hi>All are yours, and ye are Chriſts,</hi> 1 <hi>Cor.</hi> 3. <hi>ult.</hi> They that are intereſted in the Lord Jeſus, all things are theirs, <hi>whether Paul, or Apollo, or Cephas, or the world, or life, or death;</hi>
+               <pb n="20" facs="tcp:43096:15"/> Death is <hi>theirs, theirs</hi> to ſerve them, <hi>theirs</hi> to profit them, <hi>theirs</hi> to be an outlet from ſin and ſorrow, and an inlet unto happineſs.</p>
+            <p>The Application now follows.</p>
+            <p>Uſe 1, of <hi>Information</hi> in theſe particulars:</p>
+            <p n="1">1. Does death come to a Believer without a ſting? <hi>Then it ceaſes to be ſo great an enemy.</hi> 'Tis confeſſed, that death is a terrible enemy to the Ungodly; it ſtrips them naked of all their comforts, takes away their portion from them, deprives them of their good things; and not only ſo, but drags them to the judgment-ſeat, where being condemned they are delivered immediately to the tormentors, <hi>Luk.</hi> 16. 25, <hi>Son remember thou in thy life time receivedſt thy good things, and likewiſe Lazarus evil things, but now he is comforted, and thou art tormented.</hi> How great a kindneſs did death do to <hi>Lazarus,</hi> in ſending him from the rich mans gate to <hi>Abrahams</hi> bo<g ref="char:EOLhyphen"/>ſom? Death does that in an inſtant for Belie<g ref="char:EOLhyphen"/>vers, which all ordinances, providences, the greateſt induſtry, and ſtrongeſt cries could ne<g ref="char:EOLhyphen"/>ver effect; it makes them compleatly holy, and
+<pb n="21" facs="tcp:43096:15"/> ſends them to that reſt which remains to the people of God; <hi>Paul, Apollo, Cephas,</hi> are friends, but death a greater friend than any.</p>
+            <p n="2">2. Does death come to a Believer without a ſting? <hi>Then it ought not ſo much to be feared;</hi> and it may truly be ſaid, that the Saints are more afraid than hurt by it. As in regenera<g ref="char:EOLhyphen"/>tion there is a change wrought in reference to other things; the world which before was ido<g ref="char:EOLhyphen"/>lized, being now contemned; ſin that before was loved, being now hated; ſo there ſhould be in reference unto death, this which before was feared ſhould be deſired, 2 <hi>Cor.</hi> 5. 2, <hi>In this we groan earnestly, deſiring to be clothed upon with our houſe which is from heaven.</hi> Death is the leſs to be feared, for guilt which cauſes fear will not be any more contracted.</p>
+            <p n="3">3. Does death come to a Believer without a ſting? <hi>Behold the vast difference between the end of the Believer and the <g ref="char:V">Ʋ</g>nbeliever.</hi> Indeed the breath goes away from both alike; their Bodies are carried to the ſame grave, which is ſtiled the <hi>houſe of all the living.</hi> But if you could
+<pb n="22" facs="tcp:43096:16"/> behold where their Souls go, then you would perceive as vaſt a difference as there is between the higheſt Heaven and the loweſt Hell. The wicked man when he dies, leaves perhaps chil<g ref="char:EOLhyphen"/>dren roaring, wife wringing of her hands, rela<g ref="char:EOLhyphen"/>tions weeping bitterly. Oh but what are theſe lamentations, compared with thoſe deſpairing agonies and ſorrows that he himſelf is full of in outer darkneſs! Even impious <hi>Balaam</hi> was ſo apprehenſive of the different end of the holy and unholy; that his wiſh was, <hi>Let me dy the death of the righteous, and let my laſt end be like his, Numb.</hi> 23. 10.</p>
+            <p n="4">4. Does death come to a Believer without a ſting? <hi>Then departed Saints ſhould not be mourned for without hope. Ambroſe</hi> ſays, <hi>Non ammitti ſed praemitti videntur:</hi> They are not loſt, but are ſent before to thoſe manſions, whither we muſt quickly follow, if we pa<g ref="char:EOLhyphen"/>tiently continue in well-doing.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe.</hi> 2. Of Conſolation to Believers; they muſt dye indeed <hi>but they ſhall not feel the ſting of death.</hi> The Lyon in the fable was not
+<pb n="23" facs="tcp:43096:16"/> feared when his Teeth and Claws were gone: Death ſhould not make us diſmayed, when its ſting is taken out. I ſhall propound theſe four grounds of comfort in death unto Belie<g ref="char:EOLhyphen"/>vers.</p>
+            <p n="1">1. <hi>At death ſin is quite mortified.</hi> The Law in the members is no longer in force, that which the Apoſtle calls the <hi>body of ſin and death,</hi> then dyes and ſhall never have a reſur<g ref="char:EOLhyphen"/>rection. <hi>Filia devorabit Matrem,</hi> Death the daughter will devour Sin the mother. Saints then ſhall no longer cry out, <hi>O wretched who ſhall deliver us,</hi> Rom. 7. 4. Deliverance will be fully come. They ſhall no longer complain of evil preſent, when they would do good; their ignorance, their unbelief, their eſtrange<g ref="char:EOLhyphen"/>ment from God, and unſuitableneſs to him, will all then be removed. <hi>Nazianzen</hi> ſpeaks <note place="margin">
+                  <hi>Orat.</hi> 32.</note> excellently to our preſent purpoſe; A Saint therefore is made to dye, that ſin might not be <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> an immortal evil.</p>
+            <p n="2">2. At Death Believers <hi>take wings and fly out of a troubleſome World;</hi> the World ſhall no
+<pb n="24" facs="tcp:43096:17"/> more enſuare them, croſs them, perſecute them. Oh hapyy exchange, to leave <hi>Me<g ref="char:EOLhyphen"/>ſhech,</hi> and the Tents of <hi>Kedar,</hi> and to go and dwell in the heavenly <hi>Jeruſalem!</hi> here they dwell among the ſons of <hi>Belial,</hi> they ſee and hear that which vexes their righteous ſouls from day to day; and in the very beſt, they know, they ſee ſomething that is offenſive: But they will go to other kind of company after death. Surely the ſpirits of juſt men made perfect, and an innumerable company of An<g ref="char:EOLhyphen"/>gels, will be far ſweeter ſociety, than any in this world: <hi>All tears will be wiped away from</hi> 
+               <note place="margin">Non homo, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> miſeria hominis Chriſtiani moritur.</note> 
+               <hi>their eyes,</hi> and every thing gone that may oc<g ref="char:EOLhyphen"/>caſion ſadneſs.</p>
+            <p n="3">3. At Death Believers are ſet out of Satans reach: He got into the firſt Paradiſe and tempted <hi>Adam</hi> who before was innocent, and prevailed by his temptation; but into Heaven he ſhall not enter. Concerning the Dragon and his Angels 'tis ſaid, <hi>their place is not found any more in Heaven, Rev.</hi> 12. 8. He can ſhoot his darts any-where here in this World; even in
+<pb n="25" facs="tcp:43096:17"/> the Sanctuary, even at the Lords table, he will be peſtering the Saints with his injections and ſolicitations; but Heaven is too ſacred a place for that wicked one to have admiſſion: 'Tis as impoſſible for the Devil to reach any with his darts that are in glory, as it is for us with an arrow to hit the Sun in the firmament.</p>
+            <p n="4">4. At Death <hi>Believers receive a Crown of Life.</hi> Rev. 3. 10, <hi>Be thou faithful unto death, and I will give thee a crown of Life.</hi> They ſhall ſee God face to face, and that ſight will tranſ<g ref="char:EOLhyphen"/>form them into his likeneſs: they ſhall live with God for ever, and that life muſt needs be holy; that life muſt needs be joyful. <hi>Pſal.</hi> 16. <hi>ult. In thy preſence is fulneſs of joy; at thy right hand are pleaſures for evermore. Cyprian</hi> that <note place="margin">
+                  <hi>Ser.</hi> 4. <hi>De mortalit. p.</hi> 2<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>.</note> he might make death comfortable, ſayes <hi>Ad immortalitatem morte tranſgredimur,</hi> by death we paſs to immortality, <hi>nec poteſt vita aeterna ſuccedere, niſi hinc contigerit exire:</hi> Neither can we, till out of this life, enter upon that life that is eternal: then he goes on, Who would not haſte unto that which is ſo much better of the two?</p>
+            <pb n="26" facs="tcp:43096:18"/>
+            <p> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. Of Exhortation, in two Words.</p>
+            <p n="1">1. <hi>Let it be your great care that the ſting of death may be taken out:</hi> Sin will not always be made light of; perhaps when death is really within view, Conſcience that was ſtupid be<g ref="char:EOLhyphen"/>fore may be horribly affrighted, when the ſtrength fails, and Phyſicians are diſcouraged by fatal Symptoms, when tis whiſpered in the Room there's no hope of recovery; when Friends ſtand by and weep becauſe they look upon you as good as gone; Oh then though never ſo ſenſleſs and ſeared before, <hi>fear may come upon you as deſolation, and deſtruction as a whirl-wind, diſtreſs and anguiſh may take hold of you,</hi> Prov. 1. 27.</p>
+            <p>Or ſuppoſe you die hardned, immediate<g ref="char:EOLhyphen"/>ly after death the ſting of it will be felt, and the unexpected ſmart and torment will be the more tormenting. Oh how did the rich Glut<g ref="char:EOLhyphen"/>ton yell and roar, when he felt himſelf tor<g ref="char:EOLhyphen"/>mented in the flames that before had lived in eaſe and pleaſure! It concerns you therefore highly, to have Death unſtung; and that it
+<pb n="27" facs="tcp:43096:18"/> may be unſtung follow theſe Directions.</p>
+            <p n="1">1. <hi>Let your hearts be pricked for ſin at pre<g ref="char:EOLhyphen"/>ſent, Act.</hi> 2. 37. Be afflicted, and mourn, and weep becauſe you have ſinned againſt God, againſt your own Souls. Smite upon your thighs and ſay, What have I done? blame your ignorance and madneſs in offending, <hi>Pſal.</hi> 73. 21, 22. <hi>Thus my heart was grieved, I was pricked in my reins, ſo fooliſh was I and ig<g ref="char:EOLhyphen"/>norant, I was as a beaſt before thee.</hi> Thus to be troubled is the way to peace.</p>
+            <p n="2">2. <hi>Believe that help indeed lies in the Lord Jeſus,</hi> and that he is able to ſave you from the ſting of death. Believe, that he was <hi>deliver<g ref="char:EOLhyphen"/>ed for our offences, and that he roſe again for our juſtification, Rom.</hi> 4. <hi>ult.</hi> and that his life which he gave is ſufficient to be a ranſom for many.</p>
+            <p n="3">3. <hi>Stick at no terms that you may partake of Chriſt Jeſus.</hi> Be not offended at any thing; quarrel not at the croſs; be willing to deny your ſelves; ſubmit unto the ſtricteſt com<g ref="char:EOLhyphen"/>mands; let no iniquity have dominion over you; conſent that Chriſt ſhould ſave you in
+<pb n="28" facs="tcp:43096:19"/> his own way, and from ſin it ſelf as well as wrath: And if thus Chriſt be accepted, he will prevent death's ſtinging you. He has the Keys of Hell and of Death, <hi>Rev.</hi> 1. 18, <hi>I am he that liveth and was dead, and behold I am alive for evermore, Amen, and have the keys of hell and of death.</hi> He has power over both; and though <hi>he lets you fall into the grave, he will keep hell lockt againſt you.</hi>
+            </p>
+            <p n="2">2. The other word of Exhortation is this, <hi>Labour after aſſurance that death's ſting is really taken out.</hi> And you may be aſſured of this by two things, if you are dead to ſin, if Chriſt be your life.</p>
+            <p n="1">1. <hi>If you are dead to ſin.</hi> If the gain and pleaſure of ſin does not now take with you; and you are deaf unto Arguments that hereto<g ref="char:EOLhyphen"/>fore were prevalent to perſwade you to evil. If you <hi>have crucified the fleſh with the affections and luſts,</hi> you may conclude you are Chriſts, <hi>Gal.</hi> 5. 24. and then Death will not be the forerunner of Condemnation. When Chriſt was Crucified they lookt upon him as a de<g ref="char:EOLhyphen"/>ceiver,
+<pb n="29" facs="tcp:43096:19"/> and they ſlew him. Then our luſts may be ſaid to be crucified, when we look up<g ref="char:EOLhyphen"/>on them as deceitful, and ſo indeed they are; and we cry out earneſtly to have them killed, and are glad when they are ſlain.</p>
+            <p n="2">2. <hi>If Christ be your life.</hi> If you live by faith upon him, and derive life more and more a<g ref="char:EOLhyphen"/>bundantly from him; If you live to him, and not henceforth unto your ſelves, 2 <hi>Cor.</hi> 5. 15. then death will be no death to you. Hark to the Apoſtle, <hi>Phil.</hi> 1. 21. <hi>To live to me is Chriſt, and to die is gain.</hi> Thus of the firſt Doctrine, <hi>Death comes to a Believer without a ſting.</hi>
+            </p>
+            <p>
+               <hi>Doct.</hi> 2. The ſecond Doctrine is this, <hi>The Believer may triumph over Death.</hi> Thus does the Apoſtle in the Text, he dares Death to do its worſt, he was aſſured of victory over it. The Reaſons of the Doctrine are theſe.</p>
+            <p n="1">1. Believers may triumph over Death, <hi>for Chriſt is riſen;</hi> the Captain of their Salvation has encountred this enemy and overcame him, and they have a ſhare and intereſt in his Con<g ref="char:EOLhyphen"/>queſt. Methinks theſe words ſeem to be ſpo<g ref="char:EOLhyphen"/>ken
+<pb n="30" facs="tcp:43096:20"/> with joy and an exulting ſpirit, <hi>Luk.</hi> 24. 34. <hi>The Lord is riſen indeed.</hi> Though he came not down from the Croſs, yet he came out of the grave. We ſee that Death is not an invin<g ref="char:EOLhyphen"/>cible enemy, Chriſt has been too hard for it.</p>
+            <p n="2">2. Believers may triumph over Death, <hi>for their Reſurrecti<g ref="char:EOLhyphen"/>on is certain;</hi> there is ſo ſtrong a connexion between Chriſts Reſurrection and ours, that the Apoſtle ſticks not to ſay, <hi>If there be no Reſurrection of the dead then is not Chriſt riſen,</hi> 1 Cor. 15. 13. The time will certainly come <hi>when all that are in the grave ſhall hear Chriſts voice, and ſhall come forth; they that have done good to the reſurrection of life; as they that have done evil to the reſurrection of damnation,</hi> Joh. 5. 28, 29. The Grave ſhall at laſt become ſick of Believers bodies, and caſt them out; and being then made Spiritual bodies, Death ſhall no more have dominion over them.</p>
+            <p n="3">3. Believers may triumph over Death; <hi>for Chriſt died not only that he might deliver from the ſting of death, but alſo from that bondage which the fear of death cauſes;</hi> Heb. 2. 15; <hi>And deliver them who through the fear of death were all their life<g ref="char:EOLhyphen"/>time ſubject to bondage.</hi> Our Lord conſults the peace and joy, as well as ſafety of his followers; and ſaves them not only from the evils feared, but from the fear of evil; for fear has much torment in it.</p>
+            <p n="4">4. Believers may triumph over Death; <hi>for death is excee<g ref="char:EOLhyphen"/>ding gainful;</hi> they are not loſers even in reference to their bodies. The Corn gains by being ſown in the ground, and whereas 'twas but a ſingle grain, riſes again ſixty, or an hundred fold; ſo the bodies of Believers ſhall gain by the Grave, they ſhall riſe glorious. <hi>Chryſoſtom</hi> illuſtrates this by the ſimilitude of a Founder, who breaks a more vile veſſel all to pieces, that melting it he may caſt it into a veſſel of honour.</p>
+            <p n="5">5. Believers may triumph over Death; <hi>for this is the last enemy;</hi> and if they paſs the pikes well here, and are not hurt by this, their warfare is accompliſhed, and no other enemies ſhall meddle with them any more for ever.</p>
+            <pb n="31" facs="tcp:43096:20"/>
+            <p> 
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 1. <hi>To the ungodly and hypocritical.</hi> All you that allow your ſelves in ſin, whether more openly or under a profeſſi<g ref="char:EOLhyphen"/>on of Godlineſs; you have no reaſon to triumph but to trem<g ref="char:EOLhyphen"/>ble at the thoughts of Death. Conſider,</p>
+            <p n="1">1. When you die, <hi>the day of Grace will end,</hi> not another accepted time, nor day of Salvation is to be expected; you will no more be intreated to be reconciled, nor called upon to turn and live.</p>
+            <p n="2">2, When you die <hi>your joys will die. The triumphing of the wicked is ſhort, and the joy of the hypocrite but for a moment, Job</hi> 20. 5. That man that ſaid, <hi>Soul take thine eaſe, eat, drink, and be merry, thou haſt goods laid up for many years;</hi> when upon the ſudden even that night, his Soul was required, Oh what became of his carnal mirth and jollity!</p>
+            <p n="3">3. When you die <hi>your hopes will die;</hi> the hope of the un<g ref="char:EOLhyphen"/>juſt and of the hypocrite ſhall periſh. <hi>Their hope ſhall be cut off, and their truſt ſhall be a ſpiders web,</hi> Job 8. 13, 14. 'Tis reckon<g ref="char:EOLhyphen"/>ed among ſome of the notable Sayings of <hi>Ariſtotle,</hi> that being <note place="margin">Diog. Lur. in vita Ariſtot.</note> asked what Hope was, he anſwered <gap reason="foreign" resp="#OXF">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>the dream of one that is awake.</hi> All the hopes of thoſe that are not really new Creatures, concerning the Love of God, and Life and Salvation, are but dreams; and when they awake in Hell they will find they are meer dreams. Thus <hi>the hungry man dreameth and behold he earth, but he awaketh and his ſoul is empty; the thirſty man dreameth and behold he drinketh, but he awaketh and behold he is faint,</hi> Iſa. 29. 8.</p>
+            <p n="4">4. When you that are ungodly die, <hi>your ſorrows will be ex<g ref="char:EOLhyphen"/>tream, but they ſhall never die.</hi> Our Lord ſays thrice together, <hi>That in hell the worm dies not, the fire is not quenched,</hi> Mark. 9. 44, 46, 48.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 2. To the weak and doubting Saints, <hi>Labour to haue your Spiritual state cleared;</hi> 'Tis a wild thing to ſuffer matters that concern Eternity hang at uncertainties. Oh watch more againſt every ſin; for this feeds your doubts and <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> unto Jeſus and underſtand his Righteouſneſs; <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> that Grace may be more evident: Try your ſelves <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="32" facs="tcp:43096:21"/> ſeech the Lord to ſearch you, and diſcover ſincerity to you; And when once you know that God is yours and you his; then you will be above the fear of Death.</p>
+            <p>
+               <hi>
+                  <g ref="char:V">Ʋ</g>ſe</hi> 3. To thoſe few that upon good grounds are not afraid of dying.</p>
+            <p n="1">1. <hi>Be thankful for victory. Thanks be unto God who giveth us the victory through our Lord Jeſus Chriſt,</hi> 1 Cor. 15. 57.</p>
+            <p n="2">2. <hi>Be ſtedfaſt and unmoveable always abounding in the work of the Lord, foraſmuch as ye know that your labour is not in vain in the Lord,</hi> 1 Cor. 15. 58.</p>
+            <p>Thus have I finiſhed both the Doctrines, and both are verifi<g ref="char:EOLhyphen"/>ed in this eminent ſervant of Chriſt, who is now to be interred. Death came without a ſting to him, which is the common hap<g ref="char:EOLhyphen"/>pineſs of all the Saints; he triumphed over death, and that is peculiar.</p>
+            <p>What I have to ſay concerning my dear deceaſed Brother, I ſhall ſpeak in this order. I ſhall tell you wherein the Lord made him to excel in his life-time. And what his Carriage was at his Departure.</p>
+            <p>For the firſt there are theſe following Particulars very re<g ref="char:EOLhyphen"/>markable.</p>
+            <p n="1">1. <hi>Great was the ſweetneſs of his Natural temper and diſpo<g ref="char:EOLhyphen"/>ſition.</hi> And this excellency of Nature was very much hight<g ref="char:EOLhyphen"/>ned and ennobled by the grace of God. He was far from mo<g ref="char:EOLhyphen"/>roſeneſs and bitterneſs of ſpirit. Candor was to be diſcerned in his very Countenance; and by converſing with him 'twas much more apparent. And in his kindneſs, and affability, and proneneſs to oblige, he had a deſign of good upon Souls, for he knew he could not more oblige any than to endeavour their Eternal welfare.</p>
+            <p n="2">2. <hi>He made it his buſineſs to be Religious;</hi> he practiſed him<g ref="char:EOLhyphen"/>ſelf what he preached to others, and was a follower of Chriſt as he exhorted others to follow him; his works were good as well as his words, and Oh how oft and ſeriouſly did he lift up his Soul to God, deſiring nothing more than to be a man and Paſtour after the heart of the Lord!</p>
+            <pb n="33" facs="tcp:43096:21"/>
+            <p n="3"> 3. <hi>He was a ſerious mourner for the decays of Godlineſs in this backſliding age.</hi> How would he mention the old Puritan ſtrict<g ref="char:EOLhyphen"/>neſs and circumſpection, and bewail the exceſſes and licentiouſ<g ref="char:EOLhyphen"/>neſs of profeſſors!</p>
+            <p n="4">4. <hi>His heart was inflamed with love to Chriſt.</hi> And though his affections were ſo ſtrong and vehement, yet they were ſtill aſpiring higher. His expreſſions ſometimes ſhewed unuſual rap<g ref="char:EOLhyphen"/>tures and extaſies of love. He would beg, that <hi>he might equal Paul or John, nay the very Seraphims in loving,</hi> that <hi>he might be ſick and dye of love.</hi> Bleſſed Soul! <hi>thou haſt now thy fill, thou loveſt thy Lord now, and enjoyeſt this love to the uttermoſt of thy capacity!</hi>
+            </p>
+            <p n="5">5. <hi>His bowels of compaſſion yearned towards immortal ſouls.</hi> He knew the worth of his own and the ſouls of others, and as he was acquainted with the value of ſouls, ſo he was ſenſible of their danger. How earneſtly would he warn them to flee from future wrath? How eagerly and ſweetly would he woo them to give their conſents to be eſpouſed to <hi>Chriſt?</hi> How admirably would he expoſtulate with them concerning their egregious folly in refuſing? He pitied the ſouls of all, old, young; nay he was deeply concerned for little Children, wit<g ref="char:EOLhyphen"/>neſs thoſe books which he ſtyles <hi>tokens</hi> for them.</p>
+            <p n="6">6. <hi>He laboured abundantly ſpending himſelf in his Maſters work.</hi> If he had wrought leſs he might in probability have lived longer: but he choſe rather like the Candle to conſume that he might give light to others. He preached, he viſited, he catechi<g ref="char:EOLhyphen"/>zed, he was inſtant in ſeaſon, out of ſeaſon; and truly the Lord honoured him exceedingly in making him inſtrumental to con<g ref="char:EOLhyphen"/>vert the prophane, to ſtrengthen the weak in Grace; to ſpeak comfortably and healing words to the diſtreſſed and wounded in their Spirits.</p>
+            <p n="7">7. <hi>He was a man mighty in prayer,</hi> there was an elegant fluency in his Expreſsion both when he prayed and preached, but oh the Spiritual and Heavenly matter was moſt to be ad<g ref="char:EOLhyphen"/>mired! <hi>Auguſtine</hi> tell us of a certain perſon who prayed as if he <note place="margin">De Civ. Dei lib. 22. cap. 8</note> would <hi>expirare orando,</hi> breath out his very ſoul and life in
+<pb n="34" facs="tcp:43096:22"/> prayer; and adds, <hi>quas tuòrum preces ſi non has exaudis?</hi> What Supplications will be prevalent if not ſuch as theſe? This may be applied to my Brother <hi>Janeway.</hi> He was a mighty wreſtler with God, and would not be put off without a bleſsing.</p>
+            <p n="8">8. <hi>He was much for <g ref="char:V">Ʋ</g>nity and Love;</hi> though according as it was foretold, Love is grown ſo cold in moſt, 'twas warm in him; he followed peace as well as holineſs, and was of a moſt yielding Spirit, ready as far as he might to comply with any rather than a breach ſhould be, or be continued.</p>
+            <p n="9">9. He abounded in works of Charity; having ſeriouſly ponder'd that ſaying of our Lord, 'Tis more bleſſed to give than to receive. As he was liberal in importing the treaſure of the Goſpel, ſo of his own ſubſtance which God had given him. 'Twas his conſtant courſe whatever he received to give two ſhillings in the pound that is the tenth unto good uſes. He endeavoured to perſwade others to be Charitable, the Widows and the Fatherleſs had a great intereſt in his Compaſsions, and may well bewail his departure, by whom now they can be no more relieved.</p>
+            <p n="10">10. Which crowned all his other excellencies, <hi>he was exceeding humble;</hi> he was much in praiſing and admiring and adoring God, and had very low thoughts of himſelf; and in honour preferred others before himſelf. He would ſay he was the leaſt of Miniſters, leſs than the leaſt of all Saints.</p>
+            <p>In theſe particulars you have ſomething of his Character, but the half has not been told you; yet enough has been ſaid to make you ſenſible how heavy the ſtroke was which took him away. The loſs of him is not only his Relations loſs, but <hi>Redriffs</hi> loſs, <hi>Londons</hi> loſs, <hi>Englands</hi> loſs, the Churches loſs; for he was of ſuch a publick Spirit that all are like to miſs him.</p>
+            <p>In the next place I am to ſpeak of his carriage at his death.</p>
+            <p>He had a great Conflict with Satan ſomewhile before his leaving the world; and truly I do not wonder that the De<g ref="char:EOLhyphen"/>vil ſhould buffet him, who had with ſuch vigour and ſucceſs endeavoured to overthrow his Kingdom. To prepare him for the encounter, the Lord at firſt did ſhine upon his ſoul, and gave him ſome aſſurance that Heaven was his Inheritance: But
+<pb n="35" facs="tcp:43096:22"/> afterwards there interven'd a Cloud, and Satan's Chain was lengthned; that Lion roared upon him, and endeavoured to diſturb his peace. The great thing he blamed himſelf for, was <hi>his aptneſs to ſlubber over private duties, ſince he was ſo much engaged in publick work.</hi> The Accuſer of the Brethren was <note place="margin">Let Mini<g ref="char:EOLhyphen"/>ſters take eſpecial notice of it.</note> very ſierce in his accuſations, and ſo far prevailed, that Mr. <hi>Janeway</hi> cryed out, <hi>I am at infinite uncertainties as to my fu<g ref="char:EOLhyphen"/>ture ſtate. I thought I had been ſincere, but Satan tells me I have been an hypocrite:</hi> And then added, <hi>Whatever you do, do not dally in Religion: 'tis only godlineſs in the power of it, that can ſtrengthen against the fear of death.</hi> Satan would not yet give over, but having begun to batter his faith, gives a freſh aſſault; then with a mournful voice he cryed out, <hi>Eternity! Eternity! Eternity! Infinite! Infinite! Infinite! Everlaſting! Everlaſting! Everlaſting!</hi> A Relation that ſtood by, added, <hi>An Eternity of Glory.</hi> To which he repli<g ref="char:EOLhyphen"/>ed, <hi>Of Horrour! of Horrour! unſpeakable Horrour!</hi>
+            </p>
+            <p>This was his Conflict, and truly 'twas a ſore one. But af<g ref="char:EOLhyphen"/>ter this blackeſt darkneſs, followed the break of day; Satan prevailed ſo far, that he might be the more remarkably foil<g ref="char:EOLhyphen"/>ed: for the God of Peace <hi>did tread the evil one under his feet.</hi> The Comforter, even the Spirit of Truth, did viſit him, and bore witneſs with his ſpirit, that he was a Child of God; and helped him to diſcern and look back upon the upright<g ref="char:EOLhyphen"/>neſs of his heart with ſatisfaction.</p>
+            <p>Not long before he died, he bleſſed God for the aſſurance of his love, and ſaid, <hi>He could now as eaſily dye as ſhut his eyes;</hi> and added, <hi>Here am I longing to be ſilent in the dust, and enjoying Christ in glory. I long to be in the arms of Jeſus. 'Tis not worth the while to weep for me.</hi> Then remembring how buſie the Devil had been about him, he was exceeding thank<g ref="char:EOLhyphen"/>ful to God for his goodneſs in rebuking him.</p>
+            <p>Afterwards he brake forth, ſaying, though ſo weak, with a loud voice, <hi>Amen Hallelujah! Hallelujah! Hallelujah!</hi> and deſired others to joyn with him; which they not preſently doing, he added, <hi>James Janeway is the only Singer.</hi>
+               <pb n="36" facs="tcp:43096:23"/> He was quickly ſeized upon with another rapture of joy, and thus expreſſed it, <hi>Millions of praiſes to the most High Jehovah! Heaven and Earth praiſe him, ye Mountains and Hills praiſe him, all his Hoste praiſe him, all ye Saints bleſs him, who hath viſited us in our low estate, and redee<g ref="char:EOLhyphen"/>med us unto himſelf. All must be aſcribed to Free grace from the beginning to the end.</hi>
+            </p>
+            <p>Then he begged of God, That he <hi>would bleſs his people, and take away animoſities and names of diviſion from among them.</hi> And theſe were the laſt words which he was heard to ſpeak diſtinctly.</p>
+            <p>Thus triumphantly he went to Glory! thus an abundant entrance was adminiſtred to him into the Everlaſting King<g ref="char:EOLhyphen"/>dom. But if his joy and praiſes were ſuch before he was got quite thither, when he was actually come within Heavens Gate, and firſt ſaw the Lord face to face; Oh who can con<g ref="char:EOLhyphen"/>ceive his joy and wonder!</p>
+            <p>To draw to a Concluſion: His Spirit is now where Chriſt is, and is made perfect; he is joyning with the Church of the firſt born in the Heavenly Jeruſalem, in that Song, <hi>Wor<g ref="char:EOLhyphen"/>thy is the Lamb that was ſlain to receive power and honour, and glory, and bleſſing, for thou hast redeemed us unto God by thy blood out of every tongue, and kindred, and people, and nation!</hi> His Body is now to make its bed in the duſt, and upon his Grave ſuch a kind of Epitaph may be inſcribed.</p>
+            <p>Siſte Viator, <hi>Paſſenger stay and understand.</hi>
+            </p>
+            <l>Here lies a faithful Shepherd, unto whom the Flock was dearer than his own Life.</l>
+            <l>He excelled in Wiſdom, for he was wiſe to win Souls.</l>
+            <l>He lived not long, but lived well, and did much in a little time. His end was Peace.</l>
+            <l>And though Satan did his worſt, be foil'd him; and died Triumphing.</l>
+            <l>O Death where is thy ſting? O Grave where is thy victory?</l>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:43096:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
